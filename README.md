@@ -32,17 +32,11 @@
 <h2> 🛠️ &nbsp;Senior DevOps & Cloud Engineering </h2>
 
 ```yaml
-name: Piyush Malhotra
-located_in: Calgary, Alberta
+name: Olawale Owolabi Kareem
+located_in: Lagos, Nigeria
 current_role: Senior DevOps Engineer / Solutions Architect
-focus: Leading, designing, and maintaining robust CI/CD pipelines and cloud infrastructure.
-education:
-  [
-    "Master's in Electrical and Computer Engineering (Focus on Systems Integration)",
-    "Bachelor's in Electronics and Communication",
-    "Self-Directed Study: Cloud Architecture & SRE Principles",
-  ]
-company: Soulber # (Assuming this company role is now a Senior DevOps one)
+focus: Leading, designing, and maintaining enterprise systems and cloud infrastructure.
+
 
 areas_of_expertise:
   [
@@ -61,12 +55,23 @@ technical_leadership:
     "Implementing centralized logging and monitoring solutions (ELK/Prometheus/Grafana).",
   ]
   
-currently_exploring: ["eBPF for advanced observability", "FinOps strategies in multi-cloud environments", "Advanced Kubernetes Operators"]
-long_term_goals: ["Achieve AWS/GCP Professional Certification", "Lead a platform engineering team", "Contribute to a major open-source DevOps project."]
-hobbies: ["Gaming", "Cinema", "Skateboarding", "Art", "Comedy"]
+currently_exploring: [ "Mlops", "eBPF for advanced observability", "FinOps strategies in multi-cloud environments", "Advanced Kubernetes Operators"]
+long_term_goals: ["Solutions Architect @FANG ", "Lead Entreprise engineering team", "Contribute to a major open-source DevOps project."]
+hobbies: [ "Football", "Gaming", "Cinema", "Music", "Comedy"]
 
 ```
 
-<h2> ☁️ &nbsp;Core Technologies & Tooling (Expertise Level)</h2> <p align="left"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" title="AWS" alt="AWS" width="45" height="45"/> <img src="https://www.google.com/search?q=https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original-wordmark.svg" title="GCP" alt="GCP" width="45" height="45"/> <img src="https://www.google.com/search?q=https://cdn.jsdelivr.net/gh/devicons/devicon/icons/terraform/terraform-original-wordmark.svg" title="Terraform" alt="Terraform" width="45" height="45"/> <img src="https://www.google.com/search?q=https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ansible/ansible-original-wordmark.svg" title="Ansible" alt="Ansible" width="45" height="45"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" title="Kubernetes" alt="Kubernetes" width="45" height="45"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" title="Docker" alt="Docker" width="45" height="45"/> <img src="https://www.google.com/search?q=https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jenkins/jenkins-original.svg" title="Jenkins" alt="Jenkins" width="45" height="45"/> <img src="https://www.google.com/search?q=https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original-wordmark.svg" title="GitLab CI" alt="GitLab CI" width="45" height="45"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" title="Git" alt="Git" width="45" height="45"/> <img src="https://www.google.com/search?q=https://cdn.jsdelivr.net/gh/devicons/devicon/icons/prometheus/prometheus-original-wordmark.svg" title="Prometheus" alt="Prometheus" width="45" height="45"/> <img src="https://www.google.com/search?q=https://cdn.jsdelivr.net/gh/devicons/devicon/icons/grafana/grafana-original-wordmark.svg" title="Grafana" alt="Grafana" width="45" height="45"/> <img src="https://www.google.com/search?q=https://cdn.jsdelivr.net/gh/devicons/devicon/icons/logstash/logstash-original-wordmark.svg" title="ELK Stack" alt="Logstash" width="45" height="45"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original-wordmark.svg" title="Python" alt="Python" width="45" height="45"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" title="Bash" alt="Bash" width="45" height="45"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" title="Linux" alt="Linux" width="45" height="45"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="javascript" width="45" height="45" /> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" title="Node.js" alt="nodejs" width="45" height="45" /> </p>
+<h2> ☁️ &nbsp;Core Technologies & Tooling (Expertise Level)</h2> <p align="left"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" title="AWS" alt="AWS" width="45" height="45"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original-wordmark.svg"
+     title="Google Cloud Platform" alt="GCP" width="45" height="45"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apachekafka/apachekafka-original-wordmark.svg"
+     title="Apache Kafka" alt="Kafka" width="45" height="45"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/networkx/networkx-original.svg"
+     title="Networking" alt="Networking" width="45" height="45"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jaegertracing/jaegertracing-original-wordmark.svg"
+     title="Jaeger Tracing" alt="Jaeger" width="45" height="45"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/terraform/terraform-original-wordmark.svg"
+     title="Terraform" alt="Terraform" width="45" height="45"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ansible/ansible-original-wordmark.svg"
+     title="Ansible" alt="Ansible" width="45" height="45"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" title="Kubernetes" alt="Kubernetes" width="45" height="45"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" title="Docker" alt="Docker" width="45" height="45"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jenkins/jenkins-original.svg"
+     title="Jenkins" alt="Jenkins" width="45" height="45"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original-wordmark.svg"
+     title="GitLab CI" alt="GitLab CI" width="45" height="45"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" title="Git" alt="Git" width="45" height="45"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/prometheus/prometheus-original-wordmark.svg"
+     title="Prometheus" alt="Prometheus" width="45" height="45"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/grafana/grafana-original-wordmark.svg"
+     title="Grafana" alt="Grafana" width="45" height="45"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/logstash/logstash-original-wordmark.svg"
+     title="Logstash (ELK Stack)" alt="Logstash" width="45" height="45"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original-wordmark.svg" title="Python" alt="Python" width="45" height="45"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" title="Bash" alt="Bash" width="45" height="45"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" title="Linux" alt="Linux" width="45" height="45"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="javascript" width="45" height="45" /> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" title="Node.js" alt="nodejs" width="45" height="45" /> </p>
 
 <p align="center">   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/> </p>
