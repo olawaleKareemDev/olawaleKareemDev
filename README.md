@@ -29,7 +29,7 @@
 
 ---
 
-<h2> 🛠️ &nbsp;Senior DevOps & Cloud Engineering </h2>
+<h2> 🛠️ &nbsp;Senior DevOps Engineer </h2>
 
 ```yaml
 name: Olawale Owolabi Kareem
